@@ -1,0 +1,17 @@
+{
+  "name": "StenW/WP-FAQ-plugin",
+  "description": "This is just a simple plugin for adding a FAQ through CPT",
+  "keywords": ["wordpress", "plugin", "roots", "FAQ"],
+  "homepage": "https://github.com/StenW/WP-FAQ-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sten W"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}

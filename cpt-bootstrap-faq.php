@@ -89,7 +89,7 @@ function cptModal_frontend($atts){
 		    <div class="panel-heading">
 		      <h4 class="panel-title">
 		        <a id="<?php echo $title['id']; ?>" data-toggle="collapse" data-parent="#accordion" href="#cptmodal_<?php echo $title['id']; ?>">
-		        	<?php echo $title['title'];?>
+		        	<?php echo $i; ?>: <?php echo $title['title'];?>
 		        </a>
 		       </h4>
 		    </div><!--panel-heading-->
