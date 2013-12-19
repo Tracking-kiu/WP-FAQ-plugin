@@ -1,5 +1,6 @@
 {
   "name": "StenW/WP-FAQ-plugin",
+  "version": "1.0.0",
   "description": "This is just a simple plugin for adding a FAQ through CPT",
   "keywords": ["wordpress", "plugin", "roots", "FAQ"],
   "homepage": "https://github.com/StenW/WP-FAQ-plugin",
