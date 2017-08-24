@@ -1,16 +1,16 @@
 {
-  "name": "StenW/WP-FAQ-plugin",
+  "name": "Tracking-kiu/WP-FAQ-plugin",
   "version": "1.0.0",
   "description": "This is just a simple plugin for adding a FAQ through CPT",
   "keywords": ["wordpress", "plugin", "roots", "FAQ"],
-  "homepage": "https://github.com/StenW/WP-FAQ-plugin",
+  "homepage": "https://github.com/Tracking-kiu/WP-FAQ-plugin",
   "license": "MIT",
   "authors": [
     {
       "name": "Sten W"
     }
   ],
-  "type": "wordpress-plugin",
+  "type": "processmaker-plugin",
   "require": {
     "php": ">=5.3.2",
     "composer/installers": "1.0.*"
